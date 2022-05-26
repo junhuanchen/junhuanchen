@@ -1,4 +1,4 @@
 
 <div>
-<img align="center" src="limu.gif">
+<img align="center" height="200" src="limu.gif">
 </div>
